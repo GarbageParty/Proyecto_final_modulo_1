@@ -1,4 +1,6 @@
+<p align="center">
 Taverna Dungeons & Dragons :mage_man:
+</p>
 
 Esta es un ejemplo de pagina web usando solo HTML para entrega del proyecto solicitado en el primer modulo.
 
