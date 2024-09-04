@@ -3,7 +3,7 @@ Taverna Dungeons & Dragons :mage_man:
 </p>
 
 <p align="center">
-Esta es un ejemplo de pagina web usando solo HTML para entrega del proyecto solicitado en el primer modulo.
+Esta es un ejemplo de pagina web usando solo HTML para entrega del proyecto solicitado en el primer modulo. :computer:
 </p>
 
 <p align="center">Principalmente está pensada como si dentro del mundo de D&D los aventureros tuvieran acceso a paginas web
