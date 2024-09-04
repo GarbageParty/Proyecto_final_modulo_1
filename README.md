@@ -12,7 +12,7 @@ y esta sirviera como una guía en linea de lo que puedes hacer dentro de una tav
 
 <p align="center">
 Visualización
-Para acceder a ella solo necesitas copiar el link y pegarlo en tu navegador de confianza 	:house:
+Para acceder a ella solo necesitas copiar el link y pegarlo en tu navegador de confianza	:house:
 </p>
 
 <p align="center">
