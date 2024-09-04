@@ -12,7 +12,7 @@ y esta sirviera como una guía en linea de lo que puedes hacer dentro de una tav
 
 <p align="center">
 Visualización
-Para acceder a ella solo necesitas copiar el link y pegarlo en tu navegador de confianza 	:fairy:
+Para acceder a ella solo necesitas copiar el link y pegarlo en tu navegador de confianza 	:fairy_woman:
 
-  
+  https://garbageparty.github.io/Proyecto_final_modulo_1/
 </p>
